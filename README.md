@@ -42,6 +42,16 @@ All data and scenarios in this project are fictional and created solely for the 
 
 ---
 
+## How to Use This Repository
+
+1. Clone the repository using the following command:
+   ```bash
+   git clone https://github.com/Mohitbudheliya/Prime-Manufacturing-Excel-Data-Analysis.git
+   ```
+2. Open the Excel files to explore the analyses and dashboards.
+
+---
+
 ## Screenshots
 ![Dashboard Screenshot](Homepage.png)
 *Interactive dashboard showcasing key insights.*
