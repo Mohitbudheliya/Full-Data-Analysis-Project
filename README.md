@@ -47,8 +47,7 @@ All data and scenarios in this project are fictional and created solely for the 
 /Homepage.png)
 *Interactive dashboard showcasing key insights.*
 
-![Comparison Charts](Add files via upload
-/Comparison.png)
+![Comparison Charts](Comparison.png)
 *Comparison of profit with demand and selling price*
 
 ![NPV Chart](Add files via upload
