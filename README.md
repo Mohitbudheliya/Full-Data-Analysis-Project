@@ -46,7 +46,7 @@ All data and scenarios in this project are fictional and created solely for the 
 
 1. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/Mohitbudheliya/My-Data-Analysis-Portfolio.git
+   https://github.com/Mohitbudheliya/My-Data-Analysis-Portfolio.git
    ```
 2. Open the Excel files to explore the analyses and dashboards.
 
