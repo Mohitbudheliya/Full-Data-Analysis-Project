@@ -1,10 +1,10 @@
 # Prime Manufacturing Co. Data Analysis Project
 
-## Description
-Comprehensive data analysis project for Prime Manufacturing Co., a fictional company, showcasing advanced Excel skills including financial modeling, optimization, and forecasting. The project demonstrates expertise in various Excel tools and techniques to address realistic business challenges.
-
 ## About
 This project demonstrates advanced Excel data analysis techniques applied to a fictional company, Prime Manufacturing Co. The objective was to address key business challenges using data-driven solutions.
+
+## Description
+Comprehensive data analysis project for Prime Manufacturing Co., a fictional company, showcasing advanced Excel skills including financial modeling, optimization, and forecasting. The project demonstrates expertise in various Excel tools and techniques to address realistic business challenges.
 
 ---
 
