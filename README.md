@@ -6,8 +6,8 @@ Comprehensive data analysis project for Prime Manufacturing Co., a fictional com
 This project demonstrates advanced Excel data analysis techniques applied to a fictional company, Prime Manufacturing Co. The objective was to address key business challenges using data-driven solutions.
 
 ## Key Features
-1.Financial Modeling:
-   One-way and two-way data tables for profitability analysis.
+1.**Financial Modeling**
+  - One-way and two-way data tables for profitability analysis.
    Break-even point calculation for all products.
 
 2.Forecasting and Trend Analysis:
