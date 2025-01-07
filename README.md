@@ -43,11 +43,14 @@ All data and scenarios in this project are fictional and created solely for the 
 ---
 
 ## Screenshots
-![Dashboard Screenshot](Screenshots/Homepage.png)
+![Dashboard Screenshot](Add files via upload
+/Homepage.png)
 *Interactive dashboard showcasing key insights.*
 
-![Comparison Charts](Screenshots/Comparison.png)
+![Comparison Charts](Add files via upload
+/Comparison.png)
 *Comparison of profit with demand and selling price*
 
-![NPV Chart](Screenshots/npv.png)
+![NPV Chart](Add files via upload
+/npv.png)
 *NPV of all products*
