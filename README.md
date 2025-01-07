@@ -1,12 +1,12 @@
-#Prime Manufacturing Co. Data Analysis Project
-##Description
+# Prime Manufacturing Co. Data Analysis Project
+## Description
 Comprehensive data analysis project for Prime Manufacturing Co., a fictional company, showcasing advanced Excel skills including financial modeling, optimization, and forecasting. The project demonstrates expertise in various Excel tools and techniques to address realistic business challenges.
 
-##About
+## About
 This project demonstrates advanced Excel data analysis techniques applied to a fictional company, Prime Manufacturing Co. The objective was to address key business challenges using data-driven solutions.
 ---
 
-##Key Features
+## Key Features
 1.Financial Modeling:
    One-way and two-way data tables for profitability analysis.
    Break-even point calculation for all products.
@@ -25,9 +25,9 @@ This project demonstrates advanced Excel data analysis techniques applied to a f
 5.Interactive Dashboard:
    Summarized key insights using a visually appealing and interactive dashboard.
 
-##Technologies Used
+## Technologies Used
 Microsoft Excel (Solver, What-If Analysis, Data Tables, etc.)
 Data Visualization (Charts, Conditional Formatting, Dashboards)
 
-##Disclaimer
+## Disclaimer
 All data and scenarios in this project are fictional and created solely for the purpose of demonstrating Excel data analysis skills.
