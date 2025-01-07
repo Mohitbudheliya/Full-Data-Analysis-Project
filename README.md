@@ -37,11 +37,6 @@ Comprehensive data analysis project for Prime Manufacturing Co., a fictional com
 
 ---
 
-## Project
-![Full Data Analysis Project](Full Analysis Project.xlsx)
-
----
-
 ## Disclaimer
 All data and scenarios in this project are fictional and created solely for the purpose of demonstrating Excel data analysis skills.
 
