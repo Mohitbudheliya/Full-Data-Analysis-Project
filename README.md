@@ -39,3 +39,15 @@ Comprehensive data analysis project for Prime Manufacturing Co., a fictional com
 
 ## Disclaimer
 All data and scenarios in this project are fictional and created solely for the purpose of demonstrating Excel data analysis skills.
+
+---
+
+## Screenshots
+![Dashboard Screenshot](Screenshots/Homepage.png)
+*Interactive dashboard showcasing key insights.*
+
+![Comparison Charts](Screenshots/Comparison.png)
+*Comparison of profit with demand and selling price*
+
+![NPV Chart](Screenshots/npv.png)
+*NPV of all products*
